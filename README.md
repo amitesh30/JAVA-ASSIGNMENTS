@@ -1,6 +1,9 @@
 # JAVA-ASSIGNMENTS
 NAME - AMITESH PATRA
 // THIS IS A REPO FOR UPLOADING ASSIGNMENTS //
+
+
+
  1st PROGRAM  :
  Write a program to take input from command line arguments, scanner object, BufferedReader object, DataInputStream object, console object and perform the following operations
  
