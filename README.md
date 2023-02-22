@@ -6,6 +6,7 @@ Here you will find my Java Assignments
 
 
  1st PROGRAM  :
+ 
  Write a program to take input from command line arguments, scanner object, BufferedReader object, DataInputStream object, console object and perform the following operations
  
 2nd program  : 
