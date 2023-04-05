@@ -1,19 +1,16 @@
-# JAVA-ASSIGNMENTS
-NAME - AMITESH PATRA
+# Java Assignments by Amitesh Patra
+Here, you will find my Java Assignments.
 
-Here you will find my Java Assignments
+# 1st Program:
+This program takes input from command-line arguments, a Scanner object, a BufferedReader object, a DataInputStream object, and a Console object. It performs various operations based on the input provided.
 
+# 2nd Program: Calculator
+This program performs basic mathematical operations such as Addition, Subtraction, Multiplication, Division, Square Root, Power, Mean, and Variance using separate functions for each operation. For instance, a separate code has been initialized for Mean operation.
 
+# 3rd Program: Menu-driven Java Program
+This program is menu-driven and is designed to study the concepts of classes, array of objects, instance members, and constructors in Java. It creates a Student class that describes the attributes of a student such as prn, name, DoB, marks, etc. It creates an array of objects of the Student class and performs operations such as adding students, displaying, searching (by prn, by name, by position), updating/editing, and deleting.
 
- 1st PROGRAM  :
- 
- Write a program to take input from command line arguments, scanner object, BufferedReader object, DataInputStream object, console object and perform the following operations
- 
-2nd program  : 
-Calculator: Addition, Subtraction, Multiplication, Division, Square Root, Power, Mean, Variance using basic math based functions. created differnet functions for differnt opertaions for instance for mean separate code has been intitalised .
+# 4th Program: Deck of Cards 
+This Java program represents a deck of 52 cards as an array of objects. The program allows the user to perform various operations on the deck, including creating a deck, printing a card or a deck, checking if two cards are the same, comparing two cards, sorting the deck of cards, finding a card in the deck, and dealing five random cards from the deck.
 
-3rd Program :
-
-Write a menu-driven Java Program to study the concepts of classes, array of objects, instance members, constructors in java.  Assignment description: Create a Student class describing attributes of a student like prn, name, DoB, marks etc. Create an array of objects of Student class and perform operations like: Add students, Display, Search (by prn, by name, by position), Update/Edit and Delete)
-
-
+![image](https://user-images.githubusercontent.com/93579400/230194743-cf6686d7-186a-43d6-88f6-2c7686205964.png)
