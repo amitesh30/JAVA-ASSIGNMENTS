@@ -1,14 +1,4 @@
-/*
-/*
-Lab Assignment 5 - Part 2
-PRN : 21070126013
-Name : Aniket Singh
-Batch : AIML A1
 
-Problem Statement :  In this exercise, take an abstract class which is defined below and
-                     develop two classes. The abstract class represents the basic building block
-                     for employees in a personnel database. The two classes are NormalEmployee and BonusEmployee.
-*/
 
 import java.text.DecimalFormat;
 
